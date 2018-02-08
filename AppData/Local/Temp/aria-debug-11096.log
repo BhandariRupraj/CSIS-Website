@@ -1,0 +1,14 @@
+2017-09-20 19:12:42.447|00007464|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=F8394E22-343C-4BB8-BD6F-35C3E3F7A7E8
+2017-09-20 19:12:42.495|00007464|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=F8394E22-343C-4BB8-BD6F-35C3E3F7A7E8
+2017-09-20 19:12:42.505|00007464|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=31f8f00f75ee43d4996762625b6917f2, tenant=CB6D29BB-D81E-4000-9A91-30A19946A7CF
+2017-09-20 19:12:42.537|00007464|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=F8394E22-343C-4BB8-BD6F-35C3E3F7A7E8
+2017-09-20 19:12:42.546|00007464|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=31f8f00f75ee43d4996762625b6917f2, tenant=CB6D29BB-D81E-4000-9A91-30A19946A7CF
+2017-09-20 19:12:42.585|00007464|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=F8394E22-343C-4BB8-BD6F-35C3E3F7A7E8
+2017-09-20 19:12:42.600|00007464|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=31f8f00f75ee43d4996762625b6917f2, tenant=CB6D29BB-D81E-4000-9A91-30A19946A7CF

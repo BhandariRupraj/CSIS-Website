@@ -1,0 +1,19 @@
+<application>
+  <component name="CPPToolchains">
+    <option name="detectedVersion" value="5" />
+    <option name="minGWHomePath" value="C:\MinGW" />
+    <option name="winEnvironment" value="MINGW" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://https://github.com/BhandariRupraj/EulerPro4" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://https://github.com/BhandariRupraj/EulerPro4" />
+      </list>
+    </option>
+  </component>
+</application>

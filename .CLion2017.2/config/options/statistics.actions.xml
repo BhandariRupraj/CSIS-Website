@@ -1,0 +1,59 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="6" />
+      <entry action="$Undo" count="16" />
+      <entry action="CIDR.Lang.Cpp.NewClass" count="4" />
+      <entry action="CPP.CreateCMakeProject" count="9" />
+      <entry action="CPP.NewCppFile" count="2" />
+      <entry action="CPP.NewHeaderFile" count="2" />
+      <entry action="CheckinFiles" count="3" />
+      <entry action="CheckinProject" count="5" />
+      <entry action="ChooseRunConfiguration" count="3" />
+      <entry action="CopyReference" count="1" />
+      <entry action="Cvs.BrowseCVSRepository" count="1" />
+      <entry action="Cvs.Import" count="1" />
+      <entry action="EditorBackSpace" count="806" />
+      <entry action="EditorChooseLookupItem" count="111" />
+      <entry action="EditorChooseLookupItemReplace" count="1" />
+      <entry action="EditorCopy" count="23" />
+      <entry action="EditorCut" count="11" />
+      <entry action="EditorDelete" count="168" />
+      <entry action="EditorDown" count="91" />
+      <entry action="EditorEnter" count="133" />
+      <entry action="EditorLeft" count="135" />
+      <entry action="EditorLineStart" count="1" />
+      <entry action="EditorPaste" count="55" />
+      <entry action="EditorRight" count="397" />
+      <entry action="EditorSplitLine" count="2" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorTab" count="6" />
+      <entry action="EditorUp" count="16" />
+      <entry action="Generate" count="4" />
+      <entry action="Git.Configure.Remotes" count="3" />
+      <entry action="Git.Init" count="4" />
+      <entry action="Git.Log" count="2" />
+      <entry action="Git.Pull" count="1" />
+      <entry action="Github.Share" count="8" />
+      <entry action="GotoFile" count="1" />
+      <entry action="Hg.Init" count="1" />
+      <entry action="OpenFile" count="2" />
+      <entry action="RenameElement" count="2" />
+      <entry action="Rerun" count="1" />
+      <entry action="Run" count="44" />
+      <entry action="SaveAll" count="23" />
+      <entry action="SearchEverywhere" count="1" />
+      <entry action="ShowErrorDescription" count="1" />
+      <entry action="ShowIntentionActions" count="9" />
+      <entry action="Subversion.ImportToSVNRepository" count="1" />
+      <entry action="Subversion.ShareWholeProject" count="1" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="Vcs.Push" count="3" />
+      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="XDebugger.AttachToLocalProcess" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction" count="1" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction" count="2" />
+      <entry action="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction" count="1" />
+    </counts>
+  </component>
+</application>

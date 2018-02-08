@@ -1,0 +1,74 @@
+2017-09-21 14:02:23.455|00002484|
+C:\build\aria-cpp-v1\clienttelemetry\src\SQLiteStorage.cpp(1415): int __thiscall common::SQLiteStorage::sqlite3_exec(const char *,int (__cdecl *)(void *,int,char **,char **),void *) WARNING: Failed to execute query: ALTER TABLE `packages` ADD `inflight` INTEGER; [rc=1]
+2017-09-21 14:02:23.456|00002484|
+C:\build\aria-cpp-v1\clienttelemetry\src\SQLiteStorage.cpp(1415): int __thiscall common::SQLiteStorage::sqlite3_exec(const char *,int (__cdecl *)(void *,int,char **,char **),void *) WARNING: Failed to execute query: ALTER TABLE `packages` ADD `attribs` INTEGER; [rc=1]
+2017-09-21 14:02:23.774|00002484|
+C:\build\aria-cpp-v1\clienttelemetry\src\SQLiteStorage.cpp(1415): int __thiscall common::SQLiteStorage::sqlite3_exec(const char *,int (__cdecl *)(void *,int,char **,char **),void *) WARNING: Failed to execute query: ALTER TABLE `packages` ADD `inflight` INTEGER; [rc=1]
+2017-09-21 14:02:23.774|00002484|
+C:\build\aria-cpp-v1\clienttelemetry\src\SQLiteStorage.cpp(1415): int __thiscall common::SQLiteStorage::sqlite3_exec(const char *,int (__cdecl *)(void *,int,char **,char **),void *) WARNING: Failed to execute query: ALTER TABLE `packages` ADD `attribs` INTEGER; [rc=1]
+2017-09-21 14:02:24.776|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.795|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.813|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.832|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.850|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.871|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.891|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.911|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.931|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.950|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.970|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:24.988|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.012|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.042|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.067|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.090|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.112|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.138|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.160|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.184|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.217|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.242|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.275|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.297|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.322|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.348|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.370|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.389|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.407|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.424|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.440|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.460|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072
+2017-09-21 14:02:25.482|00003240|
+C:\build\aria-cpp-v1\clienttelemetry\src\TransmissionPolicyManager.cpp(1848): void __thiscall clienttelemetry::TransmissionPolicyManager::_HandleSendingEvents(bool) WARNING: Waiting for clock-skew correction, skipping package=194626ba46434f9ab441dd7ebda2aa64, tenant=B3C61A11-E4BF-4841-934A-7474E26FC072

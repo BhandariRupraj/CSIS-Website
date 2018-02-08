@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- XML file to be staged anywhere, and pointed to by map.xml file -->
+<java-update>
+	<information version="1.0" xml:lang="en">
+		<caption>Java Update - Update Available</caption>
+		<title>Java Update Available</title>
+		<description>Java 8 Update 144 is ready to install.  Installing the update may uninstall the previous version of Java.  Click the install button to continue.</description>
+		<descriptionfrom8>Java 8 Update 144 includes improved performance and stability, and enhanced security.</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Java Update Available</AlertTitle>
+		<AlertText>A new version of Java is ready to be installed.</AlertText>
+		<moreinfotxt>More information...</moreinfotxt>
+		<url>http://javadl.oracle.com/webapps/download/GetFile/1.8.0_144-b01/090f390dda5b47b9b721c7dfaa008135/windows-i586/jre-8u144-windows-au.exe</url>
+		<version>1.8.0_144-b01</version>
+		<post-status>https://nometrics.java.com</post-status>
+		<cntry-lookup>http://rps-svcs.sun.com/services/countrylookup</cntry-lookup>
+		<predownload>
+		</predownload>
+		<options>/installmethod=jau FAMILYUPGRADE=1</options>
+		<urlinfo>177ad1f1825bfae2d0542ad64940809bbacd8492</urlinfo>
+		<urlinfo256>e036b778559e2c9f006d8d3478102c6ae0b2f102865332faae22491245308271</urlinfo256>
+	</information>
+	<information version="1.1" xml:lang="zh">
+		<caption>Java Update - 更新可用</caption>
+		<title>Java Update 可用</title>
+		<description>Java 8 Update 144 已准备就绪, 可以安装。安装更新可能需要卸载所有以前版本的 Java。单击“安装”按钮以继续。</description>
+		<descriptionfrom8>Java 8 Update 144 包括性能和稳定性提升, 以及安全性增强。</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Java Update 可用</AlertTitle>
+		<AlertText>新版本的 Java 已就绪, 可以安装。</AlertText>
+		<moreinfotxt>详细信息...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="zh_TW">
+		<caption>Java Update - 可用更新</caption>
+		<title>有可用的 Java 更新程式</title>
+		<description>Java 8 Update 144 已準備就緒，可以進行安裝。安裝更新可能會解除安裝舊版 Java。按一下安裝按鈕即可開始安裝。</description>
+		<descriptionfrom8>Java 8 Update 144 可提高效能和穩定性，並強化安全性。</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>有可用的 Java 更新程式</AlertTitle>
+		<AlertText>Java 新版本已準備完畢，可以立即安裝。</AlertText>
+		<moreinfotxt>更多資訊...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="ja">
+		<caption>Java Update - 更新を利用可能</caption>
+		<title>Java Update利用可能</title>
+		<description>Java 8 Update 144をインストールする準備が整いました。更新をインストールすると、Javaの前のバージョンがアンインストールされる場合があります。続行するには、インストール・ボタンをクリックしてください。</description>
+		<descriptionfrom8>Java 8 Update 144は、パフォーマンスと安定性が向上し、セキュリティが強化されています。</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Java Update利用可能</AlertTitle>
+		<AlertText>Javaの最新版のインストール準備完了。</AlertText>
+		<moreinfotxt>詳細情報 ...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="ko">
+		<caption>Java Update - 업데이트 사용 가능</caption>
+		<title>Java Update 사용 가능</title>
+		<description>Java 8 Update 144을(를) 설치할 준비가 되었습니다. 업데이트를 설치하면 이전 버전의 Java가 제거될 수 있습니다. 계속하려면 [설치] 단추를 누르십시오.</description>
+		<descriptionfrom8>Java 8 Update 144에는 향상된 성능과 안정성, 개선된 보안 기능이 포함되어 있습니다.</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Java Update 사용 가능</AlertTitle>
+		<AlertText>새 버전의 Java를 설치할 준비가 되었습니다.</AlertText>
+		<moreinfotxt>추가 정보...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="de">
+		<caption>Java-Update - Update verfügbar</caption>
+		<title>Java-Update verfügbar</title>
+		<description>Java 8 Update 144 kann nun installiert werden. Bei der Installation des Updates wird möglicherweise die vorherige Version von Java deinstalliert. Klicken Sie auf "Installieren", um fortzufahren.</description>
+		<descriptionfrom8>Java 8 Update 144 bietet eine verbesserte Performance und Stabilität sowie höhere Sicherheit.</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Java-Update verfügbar</AlertTitle>
+		<AlertText>Eine neue Java-Version kann installiert werden.</AlertText>
+		<moreinfotxt>Weitere Informationen...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="es">
+		<caption>Java Update - Actualización disponible</caption>
+		<title>Actualización Java disponible</title>
+		<description>Java 8 Update 144 está listo para instalarse. Puede que se desinstale la versión anterior de Java al instalar la actualización. Haga clic en el botón Instalar para continuar.</description>
+		<descriptionfrom8>Java 8 Update 144 ofrece mejoras en el rendimiento y la estabilidad, además de en la seguridad.</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Actualización Java disponible</AlertTitle>
+		<AlertText>Hay una nueva versión de Java lista para instalarse.</AlertText>
+		<moreinfotxt>Más información...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="fr">
+		<caption>Java Update - Mise à jour disponible</caption>
+		<title>Mise à jour Java disponible</title>
+		<description>Java 8 Update 144 est prêt à être installé. L'application de cette mise à jour peut entraîner la désinstallation de la version précédente de Java. Cliquez sur le bouton Installer pour continuer.</description>
+		<descriptionfrom8>Java 8 Update 144 offre des performances accrues, une meilleure stabilité et une sécurité renforcée.</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Mise à jour Java disponible</AlertTitle>
+		<AlertText>Une nouvelle version de Java est prête à être installée.</AlertText>
+		<moreinfotxt>Plus d'informations...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="it">
+		<caption>Aggiornamento Java - Aggiornamento disponibile</caption>
+		<title>Aggiornamento Java disponibile</title>
+		<description>Java 8 Update 144 pronto per l'installazione. L'installazione dell'aggiornamento potrebbe comportare la disinstallazione della versione precedente di Java. Fare clic sul pulsante Installa per continuare.</description>
+		<descriptionfrom8>Java 8 Update 144 garantisce prestazioni e stabilità migliorate e sicurezza avanzata.</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Aggiornamento Java disponibile</AlertTitle>
+		<AlertText>Nuova versione di Java pronta per l'installazione.</AlertText>
+		<moreinfotxt>Ulteriori informazioni...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="pt_BR">
+		<caption>Java Update - Atualização Disponível</caption>
+		<title>Atualização do Java Disponível</title>
+		<description>O Java Java 8 Update 144 está pronto para a instalação. A instalação da atualização poderá desinstalar a versão anterior do Java. Clique no botão Instalar para continuar.</description>
+		<descriptionfrom8>O Java 8 Update 144 inclui desempenho e estabilidade melhorados, além de segurança reforçada.</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Atualização do Java Disponível</AlertTitle>
+		<AlertText>Há uma nova versão do Java pronta para ser instalada.</AlertText>
+		<moreinfotxt>Mais informações...</moreinfotxt>
+	</information>
+	<information version="1.1" xml:lang="sv">
+		<caption>Java Update - uppdatering tillgänglig</caption>
+		<title>Java-uppdatering är tillgänglig</title>
+		<description>Java 8 Update 144 är klar att installeras. När du installerar uppdateringen kan tidigare versioner av Java avinstalleras. Klicka på knappen Installera för att fortsätta.</description>
+		<descriptionfrom8>Java 8 Update 144 medför bland annat förbättrad prestanda och stabilitet, och utökad säkerhet.</descriptionfrom8>
+		<moreinfo>http://java.com/moreinfo8</moreinfo>
+		<AlertTitle>Java-uppdatering är tillgänglig</AlertTitle>
+		<AlertText>En ny version av Java är färdig för installation.</AlertText>
+		<moreinfotxt>Mer information...</moreinfotxt>
+	</information>
+</java-update>

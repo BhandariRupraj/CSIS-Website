@@ -1,0 +1,29 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="175" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="463" y="99" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1366.768" x="325" y="146" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="319" y="0" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="94" />
+    <location key="#Salesforce_Accounts.0.0.1366.768" x="263" y="12" />
+    <location key="#Account.0.0.1366.768" x="567" y="293" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="430" y="153" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="73" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="461" y="240" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="104" />
+    <location key="#Notifications.0.0.1366.768" x="439" y="85" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="475" y="233" />
+    <location key="GitCloneDialog.0.0.1366.768" x="421" y="267" />
+    <location key="svn.repositoryBrowser.0.0.1366.768" x="513" y="59" />
+    <location key="Github.UntrackedFilesDialog.0.0.1366.768" x="491" y="70" />
+    <location key="svn.upgradeDialog.0.0.1366.768" x="521" y="251" />
+    <location key="SettingsEditor.0.0.1366.768" x="164" y="13" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="176" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="176" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="176" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="176" />
+    <size key="GitCloneDialog.0.0.1366.768" width="523" height="241" />
+    <size key="svn.repositoryBrowser.0.0.1366.768" width="434" height="669" />
+  </component>
+</application>

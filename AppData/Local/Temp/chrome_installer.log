@@ -1,0 +1,20 @@
+[0825/141737.111:VERBOSE1:setup_main.cc(1345)] Command Line: "C:\Program Files (x86)\Google\Chrome\Application\60.0.3112.101\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level
+[0825/141737.111:VERBOSE1:setup_main.cc(1351)] system install is 1
+[0825/141737.111:VERBOSE1:installer_state.cc(74)] Install distribution: Google Chrome
+[0825/141737.111:VERBOSE1:setup_main.cc(1359)] is_migrating_to_single is 0
+[0825/141737.127:VERBOSE1:install_util.cc(217)] Windows NT 10.0.15063
+[0825/141737.127:VERBOSE1:install_worker.cc(773)] Adding unregistration items for per-user Metro keys.
+[0825/141737.127:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0825/141737.127:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome\Metro
+[0825/141737.127:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome\Metro
+[0825/141737.127:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Cleanup deprecated per-user registrations
+[0825/142116.475:VERBOSE1:setup_main.cc(1345)] Command Line: "C:\Program Files (x86)\Google\Chrome\Application\60.0.3112.101\Installer\chrmstp.exe" --configure-user-settings --verbose-logging --system-level --force-configure-user-settings
+[0825/142116.475:VERBOSE1:setup_main.cc(1351)] system install is 1
+[0825/142116.475:VERBOSE1:installer_state.cc(74)] Install distribution: Google Chrome
+[0825/142116.475:VERBOSE1:setup_main.cc(1359)] is_migrating_to_single is 0
+[0825/142116.508:VERBOSE1:install_util.cc(217)] Windows NT 10.0.15063
+[0825/142116.508:VERBOSE1:install_worker.cc(773)] Adding unregistration items for per-user Metro keys.
+[0825/142116.508:VERBOSE1:work_item_list.cc(34)] Beginning execution of work item list Cleanup deprecated per-user registrations
+[0825/142116.508:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome\Metro
+[0825/142116.508:VERBOSE1:install_util.cc(295)] Deleting registry key Software\Google\Chrome\Metro
+[0825/142116.508:VERBOSE1:work_item_list.cc(55)] Successful execution of work item list Cleanup deprecated per-user registrations

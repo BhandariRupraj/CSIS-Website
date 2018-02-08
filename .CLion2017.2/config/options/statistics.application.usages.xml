@@ -1,0 +1,18 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.C++ Executable" count="10" />
+      <entry feature="StripeButton[Version_Control].shown" count="8" />
+      <entry feature="cidr.completion.qualified" count="16" />
+      <entry feature="cidr.newFile" count="6" />
+      <entry feature="cidr.newFile.addedToProject" count="6" />
+      <entry feature="cidr.newFile.cppClass" count="3" />
+      <entry feature="cidr.newFile.source" count="1" />
+      <entry feature="execute.CMakeRunConfiguration.Run" count="47" />
+      <entry feature="ideaapp.started" count="27" />
+      <entry feature="new.cmake.project.C++ Executable" count="10" />
+      <entry feature="tips.of.the.day.next" count="38" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>
